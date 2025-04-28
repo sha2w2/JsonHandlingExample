@@ -1,0 +1,18 @@
+[
+    {
+      "Name": "Admin User",
+      "Age": 35,
+      "City": "Texas",
+      "AccessLevel": "Full",
+      "Permissions": ["create", "update", "delete"],
+      "$type": "AdminUser"
+    },
+    {
+      "Name": "Regular User",
+      "Age": 28,
+      "City": "California",
+      "IsVerified": true,
+      "MemberSince": "2022-01-15T00:00:00",
+      "$type": "RegularUser"
+    }
+  ]
