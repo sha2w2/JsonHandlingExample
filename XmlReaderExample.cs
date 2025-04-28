@@ -12,7 +12,7 @@ class XmlReaderExample
                 <City>New York</City>
             </User>
             <User>
-                <Name>Jane Smith</Name>
+                <Name>Jona Doe</Name>
                 <Age>25</Age>
                 <City>Chicago</City>
             </User>
